@@ -187,6 +187,29 @@
 
 ---
 
+# disc tumbler locks
+
+![](disc-tumbler-lock.jpg)
+
+---
+
+![mute loop autoplay](disc-tumbler-lock.mp4)
+
+<!-- https://www.youtube.com/watch?v=wnW5GgaDKFc -->
+
+---
+
+![](disc-tumbler-pick.jpg)
+
+---
+
+![mute loop autoplay](disc-tumbler-picking.mp4)
+
+<!-- https://www.youtube.com/watch?v=rdcDhmifEgo -->
+
+---
+
+
 # magnetic locks
 
 ![fit](magnetic-lock.jpg)
