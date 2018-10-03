@@ -9,17 +9,31 @@
 <!-- https://www.youtube.com/watch?v=TFqTh8NTIqY -->
 <!-- Student Housing Center in Bryan, Texas      -->
 
+^
+• bathroom lock broke
+• crowbar & 13 seconds to open
+• student housing center in bryan, texas
+
 ---
 
 ![mute loop autoplay](lock-snapping.mp4)
 
 <!-- https://www.youtube.com/watch?v=FqhhXyROxQM -->
 
+^
+• some European locks
+• lock snapping
+• literally break the lock in half
+
 ---
 
 ![mute loop autoplay](toothbrush.mp4)
 
 <!-- https://www.youtube.com/watch?v=rDlZbQ20aLI -->
+
+^
+• bump key & electric toothbrush
+• for some reason
 
 ---
 
@@ -30,6 +44,10 @@
 # tumbler locks
 
 ![fit](tumbler-lock.png)
+
+^
+• first tumbler locks
+• most common lock
 
 ---
 
@@ -60,6 +78,12 @@
 ---
 
 ![fit](raking-picking.gif)
+
+---
+
+# keeping the baddies out
+
+### (i like my doors safe)
 
 ---
 
@@ -96,14 +120,7 @@
 
 ---
 
-# tubular locks
-
-![](tubular-lock.jpg)
-
----
-
-![fit left](tubular-locked.png)
-![fit right](tubular-with-key.png)
+# any other kinds of locks?
 
 ---
 
@@ -116,6 +133,43 @@
 
 ![fit left](wafer-locked.png)
 ![fit right](wafer-with-key.png)
+
+^ 
+• similar to tumbler locks
+• lower standards for tolerances
+• easier to pick
+• wafers are one piece
+• wafers move up and down 
+
+---
+
+# try-out keys
+
+![](try-out-keys.jpg)
+
+^
+• insert & sorta jiggle them around
+• possible due to low tolerances
+• example: set of 64 try-out keys opens almost all General Motors cars before 1967
+• only need to be close enough
+
+<!-- http://www.aerolock.com/general-motors.html -->
+
+---
+
+# tubular locks
+
+![](tubular-lock.jpg)
+
+---
+
+![fit left](tubular-locked.png)
+![fit right](tubular-with-key.png)
+
+---
+![mute loop autoplay](tubular-lock.mp4)
+
+<!-- https://www.youtube.com/watch?v=eNXhKwiO1OA -->
 
 ---
 
