@@ -140,6 +140,7 @@
 • easier to pick
 • wafers are one piece
 • wafers move up and down 
+• cannot be bumped
 
 ---
 
@@ -166,8 +167,21 @@
 ![fit left](tubular-locked.png)
 ![fit right](tubular-with-key.png)
 
+^
+• similar to tumbler locks
+• can be single pin picked
+• access is more difficult
+• especially tension
+• cannot be bumped
+
 ---
 ![mute loop autoplay](tubular-lock.mp4)
+
+^
+• awesome tools like this
+• adjustable pins
+• get them all right
+• you'll have a key
 
 <!-- https://www.youtube.com/watch?v=eNXhKwiO1OA -->
 
@@ -177,8 +191,19 @@
 
 ![fit](magnetic-lock.jpg)
 
+^
+• absolutely insane
+• works like a tumbler lock
+• no physical access to pins
+• pins are pushed into place by a strip with varying magnetic force
+
 ---
 
 ![mute loop autoplay](magnetic-lock.mp4)
+
+^
+• absolutely insane
+• picking with a magnet
+• this lock is 20+ years old
 
 <!-- https://www.youtube.com/watch?v=pWuomCDWWV0 -->
