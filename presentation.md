@@ -2,6 +2,9 @@
 
 ## (but it may be fun)
 
+<!-- insert personal anecdote and picture of lock pick from high school -->
+<!-- insert pictures of tension wrench, single pin pick, and rake -->
+
 ---
 
 ![mute loop autoplay](crowbar.mp4)
@@ -59,6 +62,12 @@
 
 ---
 
+![inline](tension-wrench.jpg)
+
+# tension wrench
+
+---
+
 # perfect plug
 
 ![inline fill](perfect-plug.png)
@@ -73,7 +82,15 @@
 
 ---
 
+![inline](pick.png)
+
+---
+
 ![fit](single-pin-picking.gif)
+
+---
+
+![inline](rakes.png)
 
 ---
 
