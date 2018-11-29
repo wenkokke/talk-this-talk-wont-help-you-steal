@@ -2,8 +2,44 @@
 
 ## (but it may be fun)
 
-<!-- insert personal anecdote and picture of lock pick from high school -->
-<!-- insert pictures of tension wrench, single pin pick, and rake -->
+---
+
+# [fit] my first lock
+
+^
+• owning a lockpicking kit is illegal in the netherlands
+
+---
+
+![mute loop autoplay](noki-lock.mp4)
+
+---
+
+![](noki-lock-inside.png)
+
+---
+
+![](kluisjesopener-1.jpg)
+
+---
+
+![](kluisjesopener-2.jpg)
+
+---
+
+# [fit] <insert triumphant photo here>
+
+---
+
+![](noki-lock-rfid.png)
+
+---
+
+# 🤷🏻‍♀️
+
+---
+
+# why won't this help me steal?
 
 ---
 
@@ -14,8 +50,7 @@
 
 ^
 • bathroom lock broke
-• crowbar & 13 seconds to open
-• student housing center in bryan, texas
+• crowbar & 10 seconds to open
 
 ---
 
@@ -62,9 +97,27 @@
 
 ---
 
+# what if i don't have a key?
+
+## (tools of the trade)
+
+---
+
 ![inline](tension-wrench.jpg)
 
 # tension wrench
+
+---
+
+![inline](pick.png)
+
+# hook
+
+---
+
+# what if i don't have a key?
+
+## (no lock is perfect)
 
 ---
 
@@ -76,17 +129,28 @@
 
 ![inline fill](real-plug.png)
 
+^
+• lock picking is only possible because of manufacturing errors
+• a perfect lock is unpickable
+• if you apply tension, the plug will catch on the pin furthest away from the centerline
+
 ---
 
 ![fit](tension.gif)
 
 ---
 
-![inline](pick.png)
+![fit](single-pin-picking.gif)
 
 ---
 
-![fit](single-pin-picking.gif)
+# [fit] demo?
+
+---
+
+# what if i don't have a key?
+
+## (but i'm laaazyyyy!)
 
 ---
 
@@ -98,38 +162,20 @@
 
 ---
 
-# keeping the baddies out
-
-### (i like my doors safe)
+# [fit] demo?
 
 ---
 
-# mushroom pins
+## reminder: having secure locks is really kinda nice actually
 
-![inline fill mute loop autoplay](mushroom-pins.mp4)
+---
+
+# security pins
+
+![inline mute loop autoplay](mushroom-pins.mp4)![inline fill mute loop autoplay](serrated-pins.mp4)![inline mute loop autoplay](spool-pins.mp4)
 
 <!-- https://www.youtube.com/watch?v=KB7wv-JPHXY -->
-
-[.header: #FFFFFF]
-[.background-color: #000000]
-
----
-
-# spool pins
-
-![inline fill mute loop autoplay](spool-pins.mp4)
-
 <!-- https://www.youtube.com/watch?v=KB7wv-JPHXY -->
-
-[.header: #FFFFFF]
-[.background-color: #000000]
-
----
-
-# serrated pins
-
-![inline fill mute loop autoplay](serrated-pins.mp4)
-
 <!-- https://www.youtube.com/watch?v=KB7wv-JPHXY -->
 
 [.header: #FFFFFF]
@@ -227,9 +273,9 @@
 ---
 
 
-# magnetic locks
+# magnetic keyed locks
 
-![fit](magnetic-lock.jpg)
+![](magnetic-lock.jpg)
 
 ^
 • absolutely insane
@@ -245,5 +291,14 @@
 • absolutely insane
 • picking with a magnet
 • this lock is 20+ years old
+• some locks remain unpicked
 
 <!-- https://www.youtube.com/watch?v=pWuomCDWWV0 -->
+
+---
+
+# [fit] ok bye now :wave:
+
+---
+
+## if you want to try it for yourself, stick around after pizza!
